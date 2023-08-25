@@ -15,6 +15,3 @@
 - **Chromatin 3D Architecture**
   - A key paradigm in biology is that structure determines function. Whether and to what extent this holds true for chromatin 3D architectures remains an open question. Here, we study chromatin structural changes in response to cancer genetic variants and epigenetic reprogramming. Our goal is to decipher chromatin plasticity and determine how it is hijacked in and/or influences tumor phenotypes.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CSOgroup/.github/main/profile/cso_logo.gif" height="100"  align="center"/>
-</p>
